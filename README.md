@@ -1,0 +1,1 @@
+# babelify-angular-seed
